@@ -5,7 +5,7 @@ The program is meant to test one's Data Analysis and Visualizaton skills using P
 
 The project is divided into 4 tasks with task one being introductory.
 
-The other tasks are as below:
+The other tasks are:
 
 1. Task 2: Call Centre Dashboard
 2. Task 3: Customer Retention
