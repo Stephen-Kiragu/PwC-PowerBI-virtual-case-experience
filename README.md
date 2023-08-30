@@ -7,6 +7,6 @@ The project is divided into 4 tasks with task one being introductory.
 
 The other tasks are as below:
 
-*Task 2: Call Centre Dashboard
-*Task 3: Customer Retention
-*Task 4: Diversity and Inclusion
+-Task 2: Call Centre Dashboard
+-Task 3: Customer Retention
+-Task 4: Diversity and Inclusion
