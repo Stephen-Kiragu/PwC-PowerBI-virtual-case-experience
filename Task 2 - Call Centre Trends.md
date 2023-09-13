@@ -31,3 +31,7 @@ The Dataset has 5000 rows and the headers are as below
 
 ### Insights
 
+
+ ![](img/ss1_1.png) 
+ 
+ Total Calls were 5000 with 946 of them (19%) going unanswered  
