@@ -32,6 +32,26 @@ The Dataset has 5000 rows and the headers are as below
 ### Insights
 
 
- ![](ss1_11.png) 
+![](img/ss1_1.png) 
  
- Total Calls were 5000 with 946 of them (19%) going unanswered  
++ Total Calls were 5000 with 946 of them (19%) going unanswered  
+
+
+![](img/ss1_2.png) 
+
++ Average Talk Duration is 3.45 seconds
++ Average Satisfaction Score is 3.40 out of 5
++ Average Answer Speed is 67.52 seconds
+
+
+<img src="img/ss1_3.png" width="631" height="227">
+
+
+
+![](img/ss1_4.png) 
+
+
+
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](img/ss1_5.png)  | ![](img/ss1_6.png)  |
