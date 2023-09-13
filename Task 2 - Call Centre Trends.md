@@ -12,8 +12,14 @@ Some of the KPIs requested for are:-
 + _Agent’s performance quadrant -> average handle time (talk duration) vs calls answered_
 
 
-## Resources
+### Resources
 
 An excel file with the title _'Call Centre Dataset'_.
 
 The headers of the dataset are as below 
+
+
+## Solution
+
+
+### Insights
