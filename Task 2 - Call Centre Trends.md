@@ -17,6 +17,7 @@ Some of the KPIs requested for are:-
 An excel file with the title _'Call Centre Dataset'_.
 
 The headers of the dataset are as below 
+![](img/Headers)
 
 
 ## Solution
