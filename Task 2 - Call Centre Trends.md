@@ -16,11 +16,18 @@ Some of the KPIs requested for are:-
 
 An excel file with the title _'Call Centre Dataset'_.
 
-The headers of the dataset are as below 
-![](img/Headers)
+The Dataset has 5000 rows and the headers are as below
+
+![](img/Headers.png)
+
+
 
 
 ## Solution
 
+![](img/Dashboard1.png)
+
+
 
 ### Insights
+
