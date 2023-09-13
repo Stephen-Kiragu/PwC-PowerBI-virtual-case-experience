@@ -1,1 +1,12 @@
+# Call Centre Trends
+## Task
+
+Prepare a dashboard for the Call Centre Manager to understand the trends.
+Some of the KPIs requested for are:-                                         
+
++ _Overall customer satisfaction_
+•	Overall calls answered/abandoned
+•	Calls by time
+•	Average speed of answer
+•	Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
