@@ -113,18 +113,15 @@ _Click on the Agent's names to filter the dashboard by a specific agent_
 
 ### Filters
 
+The Dashboard has three filters/slicers to enable further analysis.
 &nbsp; 
 &nbsp; 
 
-| Topic | Monthly | Day of Week |
+| Topic | Month | Day of Week |
 | --- | --- | --- |
 | ![](img/ss1_5.png)  | ![](img/ss1_6.png)  | ![](img/ss1_7.png)  |
 
-The Dashboard has two filters/slicers to enable further analysis
 
-+ Topic - The
-+ Month  -
-+ Day of Week - 
 
 ### Link
 
