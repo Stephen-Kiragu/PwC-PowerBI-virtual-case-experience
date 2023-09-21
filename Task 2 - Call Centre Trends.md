@@ -63,7 +63,9 @@ Below are some of the insights you can get at a glance however there are more in
 
 ![](img/ss1_1.png) 
  
-+ Total Calls were 5000 with 946 of them (19%) going unanswered  
++ Total Calls were 5000 with 946 of them (19%) going unanswered.
+
+_Click on the different sections of the ribbon to filter the whole dashboard by either answered/unanswered calls_
 
 &nbsp; 
 &nbsp; 
@@ -85,6 +87,9 @@ Below are some of the insights you can get at a glance however there are more in
 <img src="img/ss1_3.png" width="631" height="227">
 </p>
 
++ Majority of the calls were received on Monday and Saturday with 770 and 768 calls repectively, while Tuesday received the lowest with 688.
+
+_Click on the graph to filter the whole dashboard by a specific time of the day.(Working hours are 9:00am to 6:00pm)_
 
 &nbsp; 
 &nbsp; 
@@ -97,6 +102,10 @@ Below are some of the insights you can get at a glance however there are more in
 
 </p>
 
++ Jim and Dan answered the highest number of calls (536 & 523) while Joe answered the least (477).
+
+_Click on the Agent's names to filter the dashboard by a specific agent_
+
 &nbsp; 
 &nbsp; 
 &nbsp; 
@@ -107,13 +116,19 @@ Below are some of the insights you can get at a glance however there are more in
 &nbsp; 
 &nbsp; 
 
-| Topic Filter | Monthly Filter |
-| --- | --- |
-| ![](img/ss1_6.png)  | ![](img/ss1_5.png)  |
+| Topic | Monthly | Day of Week |
+| --- | --- | --- |
+| ![](img/ss1_5.png)  | ![](img/ss1_6.png)  | ![](img/ss1_7.png)  |
 
 The Dashboard has two filters/slicers to enable further analysis
 
-+ Topic Filter - This
-+ Month Filter -
++ Topic - The
++ Month  -
++ Day of Week - 
 
 ### Link
+
+Click below to access and interact with the Dashboard.
+&nbsp; 
+[Call Centre Dashboard](https://www.novypro.com/project/call-centre-dashboard-power-bi-3)
+
