@@ -127,5 +127,6 @@ The Dashboard has three filters/slicers to enable further analysis.
 
 Click below to access and interact with the Dashboard.
 &nbsp; 
+&nbsp; 
 [Call Centre Dashboard](https://www.novypro.com/project/call-centre-dashboard-power-bi-3)
 
